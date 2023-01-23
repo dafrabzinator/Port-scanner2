@@ -1,7 +1,7 @@
 # Port-scanner2
 this script scan Nasa's Ip address . for educational purpose only!
 ## Usage
-Download or clone my repository `git clone https;github.com/dafrabs/Port-scanner.git`
+Download or clone my repository `git clone https;github.com/dafrabs/Port-scanner2.git`
 run the script directly on your terminal using:
 `python3 port_scanner.py [ip] [options]`
 ## Options
