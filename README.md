@@ -1,7 +1,7 @@
 # Port-scanner2
 this script scan Nasa's Ip address . for educational purpose only!
 ## Usage
-`python port_scanner.py [ip] [options]`
+`python3 port_scanner.py [ip] [options]`
 ## Options
 `--start-port: Starting port to scan (default: 1)`
 `--end-port: Ending port to scan (default: 1000)`
